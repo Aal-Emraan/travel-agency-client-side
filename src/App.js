@@ -5,6 +5,7 @@ import Register from "./Pages/Register";
 import Dashboard from "./Pages/Dashboard";
 import Blogs from "./Pages/Blogs";
 import Navbar from "./Pages/Navbar";
+import Footer from "./Pages/Footer";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route path="/blogs" element={<Blogs />} />
         </Routes>
       </BrowserRouter>
+      <Footer />
     </div>
   );
 }

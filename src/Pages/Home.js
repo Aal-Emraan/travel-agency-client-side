@@ -5,13 +5,10 @@ import HomeBlogs from "./HomeBlogs";
 
 const Home = () => {
   return (
-    <div>
-      <main>
-        <Banner />
-        <HomeBlogs />
-      </main>
-      <Footer />
-    </div>
+    <main>
+      <Banner />
+      <HomeBlogs />
+    </main>
   );
 };
 

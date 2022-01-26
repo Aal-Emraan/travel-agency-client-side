@@ -1,0 +1,17 @@
+#login {
+  background-image: url("https://www.itsjustlight.com/wp-content/uploads/2015/10/Copenhagen-Denmark-Travel-Photography.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#submit {
+  background-color: #f5731c;
+}
+
+#google {
+  border: 1px solid #4285f4;
+}
+#facebook {
+  border: 1px solid #3b5998;
+}
