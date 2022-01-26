@@ -3,11 +3,13 @@ import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
-    <nav className="shadow py-5">
+    <nav className="shadow py-5 bg-gray-800 text-white">
       <div className="container mx-auto flex justify-between">
         <div>
           <h1>
-            Go<span>Here</span>
+            <Link to="/">
+              Go<span>Here</span>
+            </Link>
           </h1>
         </div>
         <div className="flex gap-20">
