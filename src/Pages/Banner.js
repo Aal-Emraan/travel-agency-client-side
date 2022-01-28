@@ -17,7 +17,7 @@ const Banner = () => {
         <div>
           <img
             loading="lazy"
-            src="https://cdn2.wanderlust.co.uk/media/1115/articles-a-pretty-picture-is-not-enough-it-needs-to-be-original-photo-mike-baird1.jpg?anchor=center&mode=crop&width=1200&height=0&rnd=131455539260000000"
+            src="https://www.lukas-petereit.com/wp-content/uploads/2017/03/Bastei-Saxon-Switzerland-S%c3%a4chsische-Schweiz-Landscape-Sunrise-Fog-Clouds-Photography-Photo-Location-Travel-Rocks-Mountains-Nature-Beauty.jpg"
             alt=""
           />
         </div>
